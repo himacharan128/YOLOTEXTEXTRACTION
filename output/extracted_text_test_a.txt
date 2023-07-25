@@ -1,0 +1,9 @@
+[]
+SERVICE NAME
+[]
+[]
+[]
+LOCATION
+['S478.59', 'S1,500']
+RESOURCE GROUP NAME
+[]
